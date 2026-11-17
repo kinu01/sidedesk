@@ -4,6 +4,7 @@ Your pinned pages, recent pages, and projects in one small panel, on every page 
 
 - Product page: https://kinu01.github.io/sidedesk/
 - Privacy policy: https://kinu01.github.io/sidedesk/privacy/
-- Test builds: see [Releases](https://github.com/kinu01/sidedesk/releases). Each release has install steps.
+- Install: [Sidedesk on the Chrome Web Store](https://chromewebstore.google.com/detail/sidedesk/acplcfkcdkoffgaclfkeccgppleckmak)
+- Older test builds: see [Releases](https://github.com/kinu01/sidedesk/releases).
 
 This repository holds the public site and the release builds. The source code is in a separate, private repository.
